@@ -15,8 +15,8 @@
 
 - 📫 How to reach me:  
   [Email me](mailto:lasyasurakasi@gmail.com)  
-  [LinkedIn](https://linkedin.com/in/your-profile)  
-  [Portfolio](https://your-portfolio-link.com) *(if you have one)*
+  [LinkedIn](https://www.linkedin.com/in/lasya-surakasi-a754b6244/  )
+  
 
 ---
 
