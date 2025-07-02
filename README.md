@@ -32,13 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
----
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lasyasurakasi&show_icons=true&theme=radical" alt="Lasya's GitHub stats" />
-</p>
 
 ---
 
