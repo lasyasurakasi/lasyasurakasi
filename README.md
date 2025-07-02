@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **Full Stack Development, Machine Learning, and DevOps**
 
 - 🔭 I’m working on:  
-  - A mood-based playlist generator using Java + JSP + MySQL 🎵  
-  - A student marketplace web app - CampusMart 🛍️
+  
 
 - 💬 Ask me about **React, Node.js, Java, Git, and Cloud basics**
 
